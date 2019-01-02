@@ -11,12 +11,12 @@ https://github.com/udacity/RoboND-Python-StarterKit/blob/master/doc/configure_vi
 
 **Additional libraries to install via terminal:**
 
-'source activate RoboND (or activate RoboND)
+source activate RoboND (or activate RoboND)
 pip install tensorflow==1.2.1
 pip install socketIO-client
 pip install transforms3d
 pip install PyQt5
-pip install pyqtgraph'
+pip install pyqtgraph
 
 **Grab the Project Resources and the Simulator Binary**
 
