@@ -11,7 +11,7 @@ https://github.com/udacity/RoboND-Python-StarterKit/blob/master/doc/configure_vi
 
 **Additional libraries to install via terminal:**
 
-source activate RoboND (or activate RoboND)
+'source activate RoboND (or activate RoboND)'
 pip install tensorflow==1.2.1
 pip install socketIO-client
 pip install transforms3d
